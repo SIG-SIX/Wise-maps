@@ -1,0 +1,13 @@
+{
+    "ES": {
+        "IP": "http://10.30.10.112:9200",
+        "INDEX_USERS": "wise_index_users",
+        "INDEX_ROLES": "wise_index_roles",
+        "INDEX_ATTRIBUTES": "wise_index_attributes",
+        "INDEX_GROUPS": "wise_index_groups",
+        "INDEX_DATE": "index_wise"
+    },
+    "logFile": "Logs/log.txt",
+    "SECRET": "wise-api",
+    "EXPRESS_PORT": 5003
+}
